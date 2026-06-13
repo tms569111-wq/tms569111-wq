@@ -3,11 +3,14 @@
 Computer Science undergraduate at **DGIST**, expected to graduate in **August 2026**.
 
 <p>
-  <img src="https://img.shields.io/badge/DGIST-Computer%20Science-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Engineering-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Financial-IT-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System-Reliability-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DGIST-Computer%20Science-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Financial%20IT-374151?style=for-the-badge" />
 </p>
+
+* **GitHub:** tms569111-wq
+* **Education:** DGIST, Computer Science
+* **Interests:** Backend Engineering, Financial IT, System Reliability, Algorithm Problem Solving
+* **Main Stack:** Java, Spring Boot, Python, MySQL, Git
 
 ---
 
@@ -27,9 +30,9 @@ Computer Science undergraduate at **DGIST**, expected to graduate in **August 20
 | **ADDD Co., Ltd. / (주)애드** | CUop Industry-Academic Cooperation Intern | 2023.12.19 ~ 2024.02.16 | Data analysis support, log data preprocessing, API-based data mapping, and reporting for AI/O2O platform operations |
 
 <p>
-  <img src="https://img.shields.io/badge/CUop-Industry--Academic%20Internship-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/CUop-Industry--Academic%20Internship-1E3A8A?style=flat-square" />
   <img src="https://img.shields.io/badge/Data%20Analysis-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Log%20Analysis-System%20Reliability-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/Log%20Analysis-System%20Reliability-374151?style=flat-square" />
 </p>
 
 ---
@@ -61,16 +64,16 @@ Computer Science undergraduate at **DGIST**, expected to graduate in **August 20
 </p>
 
 <p align="center">
-  <a href="https://github.com/tms569111-wq/algorithm-solving">
-    <img src="https://img.shields.io/badge/GitHub-algorithm--solving-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/tms569111-wq/problem-solving-record">
+    <img src="https://img.shields.io/badge/GitHub-problem--solving--record-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Platform-Programmers-00C7B7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Programmers-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python%20%7C%20Java-374151?style=for-the-badge" />
 </p>
 
 * **Platform:** Programmers
 * **Language:** Python, Java
-* **Repository:** [algorithm-solving](https://github.com/tms569111-wq/algorithm-solving)
+* **Repository:** [problem-solving-record](https://github.com/tms569111-wq/problem-solving-record)
 * **Current Focus:** Programmers Lv.2 → Lv.3
 
 ---
@@ -78,12 +81,12 @@ Computer Science undergraduate at **DGIST**, expected to graduate in **August 20
 ## Certifications & Scores
 
 <p>
-  <img src="https://img.shields.io/badge/정보처리기사-Passed-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/정보통신기사-Passed-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLD-Passed-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/한국사-1급-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TESAT-2급-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TOEIC-865-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/정보처리기사-Passed-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/정보통신기사-Passed-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLD-Passed-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/한국사-1급-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TESAT-2급-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TOEIC-865-374151?style=for-the-badge" />
 </p>
 
 | Certification / Score | Organization                         | Result |
