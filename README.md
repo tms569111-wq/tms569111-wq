@@ -98,18 +98,3 @@ Computer Science undergraduate at **DGIST**, expected to graduate in **August 20
 | **TESAT**             | The Korea Economic Daily             | 2급     |
 | **TOEIC**             | ETS / YBM                            | 865    |
 
----
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tms569111-wq&layout=compact&theme=transparent" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tms569111-wq&show_icons=true&theme=transparent" />
-</p>
