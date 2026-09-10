@@ -1,100 +1,41 @@
-# 유성민 | Seongmin Yu
+# 유성민 | Java Backend Developer
 
-Computer Science undergraduate at **DGIST**, expected to graduate in **August 2026**.
-
-<p>
-  <img src="https://img.shields.io/badge/DGIST-Computer%20Science-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Financial%20IT-374151?style=for-the-badge" />
-</p>
-
-* **GitHub:** tms569111-wq
-* **Education:** DGIST, Computer Science
-* **Interests:** Backend Engineering, Financial IT, System Reliability, Algorithm Problem Solving
-* **Main Stack:** Java, Spring Boot, Python, MySQL, Git
-
----
-
-## Education
-
-| Institution    | Period            |
-| -------------- | ----------------- |
-| **GBSHS 13th** | 2017.03 ~ 2020.01 |
-| **DGIST**      | 2020.02 ~ 2026.08 |
-
----
-
-## Experience
-
-| Organization               | Role                                      | Period                  | Description                                                                                                         |
-| -------------------------- | ----------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **ADDD Co., Ltd. / (주)애드** | CUop Industry-Academic Cooperation Intern | 2023.12.19 ~ 2024.02.16 | Data analysis support, log data preprocessing, API-based data mapping, and reporting for AI/O2O platform operations |
+요청이 몰리거나 외부 API가 실패해도 데이터가 틀어지지 않는 서비스를 만드는 데 관심이 있습니다.
+Spring Boot 프로젝트를 직접 배포하며 동시성, 데이터 정합성, 장애 원인 분석과 운영 설정을 다뤘습니다.
 
 <p>
-  <img src="https://img.shields.io/badge/CUop-Industry--Academic%20Internship-1E3A8A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Log%20Analysis-System%20Reliability-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
+## Featured Project
 
-## Projects
+### [starrail-community](https://github.com/tms569111-wq/starrail-community) — 운영 환경까지 구축한 커뮤니티 서비스
 
-| Project                                       | Description                                                                                                | Tech Stack                               |
-| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| **Financial News Sentiment Analysis Service** | Financial news crawling, Korean NLP-based sentiment analysis, and stock-related data visualization service | Java, Spring Boot, Python, KoNLPy, MySQL |
-| **Internet Banking DB Project**               | Basic internet banking system with account management, deposit, transfer, and loan features                | PHP, MySQL, AWS RDS                      |
-| **Log Data Analysis**                         | Log data preprocessing, anomaly detection, and reporting during data-analysis internship                   | Python, pandas, API, Data Visualization  |
-| **Course Archive**                            | Private archive for university assignments, lecture notes, and personal study materials                    | Git, GitHub                              |
+붕괴: 스타레일 캐릭터를 버전·돌파 단계별로 평가하고 의견을 나누는 비공식 커뮤니티입니다. 기능 구현에 그치지 않고 외부 API 트래픽 보호, 동시 투표 정합성, 운영 배포와 장애 대응까지 검증했습니다.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+- **Backend:** Java 21, Spring Boot 4.1, Spring Data JPA, Spring Security, Google OAuth 2.0
+- **Data & Test:** MySQL 8.4, Flyway, Testcontainers, JUnit
+- **Deploy:** Docker Compose, Caddy, AWS EC2·RDS
+- 같은 UID 동시 요청 200개를 외부 API 호출 1회로 병합
+- DB 유니크 제약과 MySQL upsert로 중복 투표 방지
+- Enka timeout, MiHoMo fallback, MySQL 시간 정밀도 문제를 로그와 테스트로 추적
+- GitHub Actions에서 전체 테스트, 운영 Compose·Caddy 검증, Docker 스모크 테스트 자동화
 
----
+[서비스](https://37tiervote.com) · [문제 해결 기록](https://github.com/tms569111-wq/starrail-community/blob/master/docs/ENGINEERING_NOTES.md) · [CI](https://github.com/tms569111-wq/starrail-community/actions/workflows/ci.yml)
 
-## Coding Test
+## Other Projects
 
-<p align="center">
-  <img src="https://api.programmers-badge.jh8459.com/badge/63bc8105d593.svg" />
-</p>
+- [news-fear-and-greed-index](https://github.com/tms569111-wq/news-fear-and-greed-index) — 한국어 금융 뉴스 감성과 주가 지표를 결합한 공포·탐욕지수 로컬 MVP
+- [problem-solving-record](https://github.com/tms569111-wq/problem-solving-record) — Programmers·Baekjoon 알고리즘 풀이 기록
 
-<p align="center">
-  <a href="https://github.com/tms569111-wq/problem-solving-record">
-    <img src="https://img.shields.io/badge/GitHub-problem--solving--record-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Platform-Programmers-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Python%20%7C%20Java-374151?style=for-the-badge" />
-</p>
+## Experience & Education
 
-* **Platform:** Programmers
-* **Language:** Python, Java
-* **Repository:** [problem-solving-record](https://github.com/tms569111-wq/problem-solving-record)
-* **Current Focus:** Programmers Lv.2 → Lv.3
+- **ADDD Co., Ltd. 인턴** · 데이터 전처리, API 기반 데이터 매핑 및 시각화 · 2023.12–2024.02
+- **DGIST 컴퓨터공학 졸업** · 2026
 
----
+## Certifications
 
-## Certifications & Scores
-
-<p>
-  <img src="https://img.shields.io/badge/정보처리기사-Passed-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/정보통신기사-Passed-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLD-Passed-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/한국사-1급-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TESAT-2급-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TOEIC-865-374151?style=for-the-badge" />
-</p>
-
-| Certification / Score | Organization                         | Result |
-| --------------------- | ------------------------------------ | ------ |
-| **정보처리기사**            | HRDK                                 | Passed |
-| **정보통신기사**            | KCA                                  | Passed |
-| **SQLD**              | K-DATA                               | Passed |
-| **한국사능력검정시험**         | National Institute of Korean History | 1급     |
-| **TESAT**             | The Korea Economic Daily             | 2급     |
-| **TOEIC**             | ETS / YBM                            | 865    |
-
+정보처리기사 · 정보통신기사 · SQLD · ADsP · 한국사능력검정시험 1급 · TOEIC 865
